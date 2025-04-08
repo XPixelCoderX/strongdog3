@@ -1205,11 +1205,11 @@
         "name": "beacon",
         "imageAnimation": "Blocks",
         "imageFrame": 15,
-        "weight": 16,
+        "weight": 10000,
         "type": 4,
         "minMaxPrice": [
-          8500,
-          9300
+          8500000,
+          9300000
         ]
       }
     ]
